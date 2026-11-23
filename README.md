@@ -1,67 +1,116 @@
 
-<h1 align="center">Hi, I'm Mariam! 💚</h1>
+<div align="center">
 
-<h3 align="center">Informatics Student | Aspiring Software Developer</h3>
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180" alt="Cat typing on a keyboard">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=34D399&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Learning+%26+building+every+day;Future+Software+Developer" alt="Typing animation" />
-</p>
+# `MariamBarakzai`
 
----
+### 𓆩♡𓆪 Aspiring Software Developer 𓆩♡𓆪
 
-### 🌿 About Me
+**Informatics student · Vienna, Austria**
 
-- 🎓 Studying Informatics at HTL Wien West, Austria.
-- 💻 Interested in software development and web technologies.
-- 🌱 Currently learning Vue.js, TypeScript and database systems.
-- 🚀 Building projects and developing my programming skills.
-- 🎯 Working towards a career in software engineering.
+<br>
 
-### 🛠️ Technologies & Tools
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=34D399&center=true&vCenter=true&width=500&lines=Hello%2C+World!;Welcome+to+my+little+corner+of+GitHub;Turning+ideas+into+code;Learning+something+new+every+day" alt="Typing animation">
 
-<p>
-  <img src="https://img.shields.io/badge/Java-059669?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-059669?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-059669?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-059669?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-059669?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-059669?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-059669?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-059669?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-### 🚀 Featured Projects
-
-#### 🎮 Pixel Tower
-An Arduino-based stacking game built with an 8×8 LED matrix.
-
-**Technologies:** Arduino, C++
-
-#### 🚗 Car Management Application
-A web application for managing cars, built with Vue.js and JavaScript.
-
-**Technologies:** Vue.js, JavaScript, CRUD
-
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MariamBarakzai&show_icons=true&theme=dark&hide_border=true&bg_color=071B13&title_color=34D399&icon_color=34D399&text_color=A7F3D0" alt="GitHub statistics" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariamBarakzai&layout=compact&theme=dark&hide_border=true&bg_color=071B13&title_color=34D399&text_color=A7F3D0" alt="Most used programming languages" />
-</p>
-
-### 📫 Let's Connect
-
-<p>
-  <a href="https://github.com/MariamBarakzai">
-    <img src="https://img.shields.io/badge/GitHub-059669?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+</div>
 
 ---
 
+```bash
+$ whoami
+Mariam — future software developer
+
+$ currently_learning
+Vue.js, TypeScript, SQL
+
+$ current_status
+Building projects & improving my skills
+```
+
+## 𓆩♡𓆪 about me
+
+```js
+const mariam = {
+    education: "HTL Wien West — Informatik",
+    interests: [
+        "Software Development",
+        "Web Technologies",
+        "Database Systems"
+    ],
+    goal: "Become a Software Developer",
+    mindset: "Learn. Build. Improve. Repeat."
+};
+```
+
+## 𓆩♡𓆪 my tech universe
+
 <p align="center">
-  <i>Always learning. Always building. 💚</i>
+  <img src="https://skillicons.dev/icons?i=java,js,vue,html,css,cpp,mysql,git,github,vscode&theme=dark" alt="My technologies">
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Currently%20learning-TypeScript-059669?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Always%20learning-34D399?style=for-the-badge&logo=bookstack&logoColor=white">
+</p>
+
+## 𓆩♡𓆪 projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎮 Pixel Tower
+
+An Arduino-based stacking game with an 8×8 LED matrix.
+
+`Arduino` `C++`
+
+</td>
+<td width="50%">
+
+### 🚗 Car Management App
+
+A Vue.js application for managing cars with CRUD functionality.
+
+`Vue.js` `JavaScript`
+
+</td>
+</tr>
+</table>
+
+## 𓆩♡𓆪 github activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MariamBarakzai&show_icons=true&hide_border=true&bg_color=071B13&title_color=34D399&icon_color=34D399&text_color=A7F3D0&rank_icon=github" height="165" alt="GitHub statistics">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariamBarakzai&layout=compact&hide_border=true&bg_color=071B13&title_color=34D399&text_color=A7F3D0" height="165" alt="Most used languages">
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MariamBarakzai&bg_color=071B13&color=34D399&line=059669&point=A7F3D0&area=true&hide_border=true" width="100%" alt="Contribution activity">
+
+</div>
+
+## 𓆩♡𓆪 let's connect
+
+<div align="center">
+
+<a href="https://github.com/MariamBarakzai">
+  <img src="https://img.shields.io/badge/GitHub-059669?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=MariamBarakzai&style=flat-square&color=059669" alt="Profile views">
+
+<br><br>
+
+**Thanks for visiting my little corner of GitHub!**
+
+*Building my future, one commit at a time.* 💚
+
+</div>
